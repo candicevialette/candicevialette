@@ -3,10 +3,10 @@
 Je suis une étudiante en BTS SIO option SISR passionnée par les infrastructures réseau et la cybersécurité. 
 ## Mes intérêts :
 
-- 🔒 Sécurité des réseaux  
+- 🛡️ Cybersécurité et virtualisation  
 - ⚡ Administration des systèmes  
 - 🛡️ Configuration et gestion des réseaux  
-- 🛡️ Cybersécurité et virtualisation  
+- 🔒 Sécurité des réseaux
 
 ## Je suis ouverte à :
 
